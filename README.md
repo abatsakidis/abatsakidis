@@ -10,7 +10,7 @@ I have extensive experience in the IT and I am currently holding various certifi
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tbatsakidis/)
 
 <a href="https://scholar.google.co.uk/citations?user=8TN-R6QAAAAJ&hl=en"><img src="/pics/scholar.png" align="left" height="100" width="100" ></a>
-
+<a href="https://www.researchgate.net/profile/Athanasios_Batsakidis2"><img src="/pics/rg.png" align="left" height="100" width="100" ></a>
 
 
 Website
