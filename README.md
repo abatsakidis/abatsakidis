@@ -17,7 +17,3 @@ I have extensive experience in the IT and I am currently holding various certifi
 <a href="https://duth.academia.edu/ThanasisBatsakidis" target="_blank"><img src="/pics/academia-icon.png" align="left" height="100" width="100" ></a>
 <a href="https://orcid.org/0000-0001-7769-829X" target="_blank"><img src="/pics/id.png" align="left" height="100" width="100" ></a>
 <a href="https://www.credential.net/profile/batsakidisathanasios279163/wallet" target="_blank"><img src="/pics/certifications_logo.png" align="left" height="100" width="100" ></a>
-<a href="https://play.google.com/store/apps/dev?id=8386512523719145838" target="_blank"><img src="/pics/android.png" align="left" height="100" width="100" ></a>
-<a href="https://www.openbook.gr/istories-dyo-selidwn/" target="_blank"><img src="/pics/mybook.png" align="left" height="100" width="100" ></a>
-
-
