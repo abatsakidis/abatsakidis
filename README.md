@@ -9,7 +9,7 @@ I have extensive experience in the IT and I am currently holding various certifi
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tbatsakidis/)
 
-![Googlescholar](/pics/scholar.png)
+![Googlescholar](/pics/scholar.png =100X100)
 
 
 Website
