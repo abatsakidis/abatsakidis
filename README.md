@@ -1,5 +1,5 @@
-# Hi! I’m Thanasis Batsakidis :coffee::computer:)
-experienced IT Engineer / Webdeveloper / PhD Cand.
+# Hi! I’m Thanasis Batsakidis (:coffee::computer:)
+## experienced IT Engineer / Webdeveloper / PhD Cand.
 
 I am a PhD Candidate at Democritus University of Thrace – Department of Production and Management Engineering - and scientific field of "Design, Organize and administration of supply chains"​. My research relates to technology and its relationship to: wisdom, mindfulness, learning, dialogue, and philosophy, as elements of an integral inquiry of the human condition. 
 
