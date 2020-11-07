@@ -8,7 +8,8 @@ I received my first degree in Mechanical Engineering from Technological Educatio
 I have extensive experience in the IT and I am currently holding various certifications (Security+, MCTS, MCITP) in the field of Information Systems and IT. I have been involved in a wide range of technologies and platforms. My working experience covers Linux, FreeBSD, Custom Firewalls, Application Level Firewalls, VPN, Remote Access, Antivirus, Proxies, IDS, IPS, VoIP,  VM and also consulting in various aspects of IT and IS.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tbatsakidis/)
-[![Website](https://www.linkedin.com/in/tbatsakidis/)](https://www.linkedin.com/in/tbatsakidis/)
+
+![Googlescholar](/pics/scholar.png)
 
 
 Website
