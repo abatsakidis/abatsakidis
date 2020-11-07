@@ -9,6 +9,7 @@ I have extensive experience in the IT and I am currently holding various certifi
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tbatsakidis/)
 
+<a href="https://www.linkedin.com/in/tbatsakidis/" target="_blank"><img src="/pics/linkedin.png" align="left" height="100" width="100" ></a>
 <a href="https://scholar.google.co.uk/citations?user=8TN-R6QAAAAJ&hl=en" target="_blank"><img src="/pics/scholar.png" align="left" height="100" width="100" ></a>
 <a href="https://www.researchgate.net/profile/Athanasios_Batsakidis2" target="_blank"><img src="/pics/rg.png" align="left" height="100" width="100" ></a>
 <a href="https://academic.microsoft.com/profile/g5hg5846-g82i-4j2g-f7ih-3eg3hg07i639/AthanasiosBatsakidis/publication/search?q=Athanasios%20Batsakidis&qe=%2540%2540%2540USER.PUBLICATIONS%253Dc5dc5846-c82e-4f2c-b7ed-3ac3dc07e639&f=&orderBy=0" target="_blank"><img src="/pics/academic.png" align="left" height="100" width="100" ></a>
