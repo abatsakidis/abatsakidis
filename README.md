@@ -7,6 +7,7 @@ I received my first degree in Mechanical Engineering from Technological Educatio
 
 I have extensive experience in the IT and I am currently holding various certifications (Security+, MCTS, MCITP) in the field of Information Systems and IT. I have been involved in a wide range of technologies and platforms. My working experience covers Linux, FreeBSD, Custom Firewalls, Application Level Firewalls, VPN, Remote Access, Antivirus, Proxies, IDS, IPS, VoIP,  VM and also consulting in various aspects of IT and IS.
 
+<p>
 <a href="https://www.linkedin.com/in/tbatsakidis/" target="_blank"><img src="/pics/linkedin.png" align="left" height="100" width="100" ></a>
 <a href="https://scholar.google.co.uk/citations?user=8TN-R6QAAAAJ&hl=en" target="_blank"><img src="/pics/scholar.png" align="left" height="100" width="100" ></a>
 <a href="https://www.researchgate.net/profile/Athanasios_Batsakidis2" target="_blank"><img src="/pics/rg.png" align="left" height="100" width="100" ></a>
@@ -14,6 +15,7 @@ I have extensive experience in the IT and I am currently holding various certifi
 <a href="https://duth.academia.edu/ThanasisBatsakidis" target="_blank"><img src="/pics/academia-icon.png" align="left" height="100" width="100" ></a>
 <a href="https://orcid.org/0000-0001-7769-829X" target="_blank"><img src="/pics/id.png" align="left" height="100" width="100" ></a>
 <a href="https://www.credential.net/profile/batsakidisathanasios279163/wallet" target="_blank"><img src="/pics/certifications_logo.png" align="left" height="100" width="100" ></a>
+  </p>
 <br/>
 <br/>
 <p align="center">
