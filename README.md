@@ -16,7 +16,7 @@ I have extensive experience in the IT and I am currently holding various certifi
 <a href="https://www.credential.net/profile/batsakidisathanasios279163/wallet" target="_blank"><img src="/pics/certifications_logo.png" align="left" height="100" width="100" ></a>
 
 <p align="center">
-  </br></br>
+  <br><br>
   <a href="https://github-readme-stats.vercel.app/api?username=abatsakidis&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
     <img src="http://github-readme-stats.vercel.app/api?username=abatsakidis&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
