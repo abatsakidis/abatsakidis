@@ -17,6 +17,12 @@ I have extensive experience in the IT and I am currently holding various certifi
 <a href="https://www.credential.net/profile/batsakidisathanasios279163/wallet" target="_blank"><img src="/pics/certifications_logo.png" align="left" height="100" width="100" ></a>
  <br/>
 <br/>
+  <br/>
+<br/>
+  <br/>
+<br/>
+  <br/>
+<br/>
 .
 </p>
 <p align="center">
