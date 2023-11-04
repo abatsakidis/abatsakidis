@@ -1,7 +1,5 @@
 # Hi! I’m Athanasios Batsakidis (:coffee::computer:)
-## experienced IT Engineer / Webdeveloper / PhD Cand.
-
-I am a PhD Candidate at Democritus University of Thrace – Department of Production and Management Engineering - and scientific field of "Design, Organize and administration of supply chains"​. My research relates to technology and its relationship to: wisdom, mindfulness, learning, dialogue, and philosophy, as elements of an integral inquiry of the human condition. 
+## experienced IT Engineer / Webdeveloper.
 
 I received my first degree in Mechanical Engineering from Technological Educational Institute of Serres. I continued joining the Master of Business Administration (MBA) program of City University in Seattle (CityU in Athens) where I extended my knowledge in the field of management. I also hold a MSc in "Management Science and Information Systems"​ from Technological Educational Institute of Kavala
 
