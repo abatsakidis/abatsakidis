@@ -1,9 +1,11 @@
 # Hi! I’m Athanasios Batsakidis (:coffee::computer:)
 ## experienced IT Engineer / Webdeveloper.
 
-I received my first degree in Mechanical Engineering from Technological Educational Institute of Serres. I continued joining the Master of Business Administration (MBA) program of City University in Seattle (CityU in Athens) where I extended my knowledge in the field of management. I also hold a MSc in "Management Science and Information Systems"​ from Technological Educational Institute of Kavala
+I hold a Bachelor's degree in Mechanical Engineering from the Technological Educational Institute of Serres, followed by an MBA from City University of Seattle (CityU in Athens), where I deepened my knowledge in business and management. Additionally, I earned a Master of Science in Management Science and Information Systems from the Technological Educational Institute of Kavala.
 
-I have extensive experience in the IT and I am currently holding various certifications (Security+, MCTS, MCITP) in the field of Information Systems and IT. I have been involved in a wide range of technologies and platforms. My working experience covers Linux, FreeBSD, Custom Firewalls, Application Level Firewalls, VPN, Remote Access, Antivirus, Proxies, IDS, IPS, VoIP,  VM and also consulting in various aspects of IT and IS.
+With extensive experience in the IT sector, I hold several professional certifications, including Security+, MCTS, and MCITP, reflecting my expertise in Information Systems and IT operations. Over the years, I have worked across a wide range of technologies and platforms.
+
+My diverse technical background and hands-on experience allow me to deliver comprehensive solutions in complex IT environments.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tbatsakidis/" target="_blank"><img src="/pics/linkedin.png" align="left" height="100" width="100" ></a>
