@@ -25,9 +25,9 @@ My diverse technical background and hands-on experience allow me to deliver comp
 </p>
 
 <p align='center'>
-💻 Personal Web Projects Showcase
+💻 Personal Web Projects Showcase</p>
 
-Explore my live web projects collection hosted on GitHub Pages:
+<p align='center'>Explore my live web projects collection hosted on GitHub Pages:
 </p>
 <div align="center" style="font-family: 'Share Tech Mono', monospace; font-size: 1.2rem; color: #39ff14; background: #000; padding: 15px; border: 2px solid #39ff14; border-radius: 6px; box-shadow: 0 0 10px #39ff14;">
   <a href="https://abatsakidis.github.io/GitHub-Web-Projects-Personal-Showcase-Webpage/" target="_blank" rel="noopener noreferrer" style="color: #39ff14; text-decoration: none; font-weight: bold;">
