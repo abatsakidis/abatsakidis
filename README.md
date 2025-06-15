@@ -23,6 +23,7 @@ My diverse technical background and hands-on experience allow me to deliver comp
   </a>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=abatsakidis.abatsakidis' /></p>
 </p>
+
 ### 💻 Personal Web Projects Showcase
 
 Explore my live web projects collection hosted on GitHub Pages:
