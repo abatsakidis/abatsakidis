@@ -1,5 +1,5 @@
 # Hi! I’m Athanasios Batsakidis (:coffee::computer:)
-## experienced IT Engineer / Webdeveloper.
+## Professor in Mechanical Engineering.
 
 I hold a Bachelor's degree in Mechanical Engineering from the Technological Educational Institute of Serres, followed by an MBA from City University of Seattle (CityU in Athens), where I deepened my knowledge in business and management. Additionally, I earned a Master of Science in Management Science and Information Systems from the Technological Educational Institute of Kavala.
 
