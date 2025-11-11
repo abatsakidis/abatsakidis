@@ -11,10 +11,10 @@ My diverse technical background and hands-on experience allow me to deliver comp
 <a href="https://www.linkedin.com/in/tbatsakidis/" target="_blank"><img src="/pics/linkedin.png" align="left" height="100" width="100" ></a>
 <a href="https://scholar.google.co.uk/citations?user=8TN-R6QAAAAJ&hl=en" target="_blank"><img src="/pics/scholar.png" align="left" height="100" width="100" ></a>
 <a href="https://www.researchgate.net/profile/Athanasios_Batsakidis2" target="_blank"><img src="/pics/rg.png" align="left" height="100" width="100" ></a>
-<a href="https://academic.microsoft.com/profile/g5hg5846-g82i-4j2g-f7ih-3eg3hg07i639/AthanasiosBatsakidis/publication/search?q=Athanasios%20Batsakidis&qe=%2540%2540%2540USER.PUBLICATIONS%253Dc5dc5846-c82e-4f2c-b7ed-3ac3dc07e639&f=&orderBy=0" target="_blank"><img src="/pics/academic.png" align="left" height="100" width="100" ></a>
 <a href="https://duth.academia.edu/ThanasisBatsakidis" target="_blank"><img src="/pics/academia-icon.png" align="left" height="100" width="100" ></a>
 <a href="https://orcid.org/0000-0001-7769-829X" target="_blank"><img src="/pics/id.png" align="left" height="100" width="100" ></a>
 <a href="https://www.youracclaim.com/users/athanasios-batsakidis/badges" target="_blank"><img src=https://re-think.gr/acclaim.png align="left" height="100" width="100" ></a>
+<a href="https://flowcrypt.com/me/rethinkgr" target="_blank"><img src=https://re-think.gr/flowcrypt.png align="left" height="100" width="100" ></a>
 <br/><br/> <br/><br/>  <br/><br/>  <br/>
 </p>
 <p align="center">
