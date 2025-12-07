@@ -19,7 +19,6 @@ My diverse technical background and hands-on experience allow me to deliver comp
 </p>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=abatsakidis&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-    <img src="http://github-readme-stats.vercel.app/api?username=abatsakidis&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=abatsakidis.abatsakidis' /></p>
 </p>
