@@ -1,11 +1,11 @@
 # Hi! I’m Athanasios Batsakidis
 ## Professor in Mechanical Engineering.
 
-I hold a Bachelor's degree in Mechanical Engineering from the Technological Educational Institute of Serres, followed by an MBA from City University of Seattle (CityU in Athens), where I deepened my knowledge in business and management. Additionally, I earned a Master of Science in Management Science and Information Systems from the Technological Educational Institute of Kavala.
+I hold a Bachelor’s degree in Mechanical Engineering, an MBA from City University of Seattle (CityU Athens), and a Master of Science in Management Science and Information Systems, combining strong engineering foundations with business and IT expertise.
 
-With extensive experience in the IT sector, I hold several professional certifications, including Security+, MCTS, and MCITP, reflecting my expertise in Information Systems and IT operations. Over the years, I have worked across a wide range of technologies and platforms.
+Throughout my career in the IT sector, I have gained extensive hands-on experience across diverse technologies and platforms. I hold multiple professional certifications, including Security+, MCTS, and MCITP, reflecting a solid background in Information Systems, infrastructure, and IT operations.
 
-My diverse technical background and hands-on experience allow me to deliver comprehensive solutions in complex IT environments.
+My multidisciplinary background enables me to design, implement, and support reliable solutions in complex and demanding IT environments, bridging the gap between technology, security, and business needs.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tbatsakidis/" target="_blank"><img src="/pics/linkedin.png" align="left" height="100" width="100" ></a>
