@@ -34,6 +34,9 @@ My multidisciplinary background enables me to design, implement, and support rel
   </a>
 </div>
 
-<p align="center" style="font-family: 'Share Tech Mono', monospace; color: #39ff14; margin-top: 10px;">
-  — Navigate through my HTML, JavaScript, and other web repositories with a hacker vibe! 👾
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamaxwel/hamaxwel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamaxwel/hamaxwel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hamaxwel/hamaxwel/output/github-snake.svg" />
+</picture>
